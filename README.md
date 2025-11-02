@@ -1,5 +1,8 @@
 # Bash Battle Arena ⚔️  
 
+[![Language](https://img.shields.io/badge/Language-Bash-121011?logo=gnubash)](https://www.gnu.org/software/bash/)
+[![Shell Scripting](https://img.shields.io/badge/Focus-Shell%20Scripting-2C2C2C?logo=linux)](#)
+
 The **Bash Battle Arena** is a command-line game designed by [CoderCo](https://coderco.io/) to teach Bash scripting skills through fun, level-based challenges. Each level is a "mission" solved with a script, introducing more difficult concepts as you progress.
 
 > [!NOTE]
